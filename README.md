@@ -2,8 +2,6 @@
 
 Build Claude AI hunting skills from **public** bug bounty reports — no private reports needed.
 
-Inspired by [bugSkills](https://github.com/BehiSecc/bugSkills) but uses public data sources instead of your own reports.
-
 ## Sources
 
 | Source | Auth needed | What it fetches |
